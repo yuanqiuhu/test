@@ -67,7 +67,7 @@ public class AllPDFActivity extends AppCompatActivity {
 
     private AlertDialog.Builder mAlertBuilder;
     static private AlertDialog.Builder gAlertBuilder;
-
+//哇顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶
     private MuPDFCore muPDFCore;// 加载mupdf.so文件
 
     private MuPDFReaderView muPDFReaderView;// 显示pdf的view
